@@ -31,9 +31,9 @@ var users = {
 	
 	//Q.2 Create your own resume data in JSON format
 
-	var resume=[{"Name":"Hariharan.U.S",
-             "qualification":"B.E",
-             "email":"hari@gmail.com",
+	var resume=[{"Name":"Tejas Mahajan",
+             "qualification":"Diploma Mechanical",
+             "email":"mahajantejas96@gmail.com",
             "Experience":"fresher",
         "Address":"abc",
     "Domain":"Full stack development",}];
