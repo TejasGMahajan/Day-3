@@ -37,7 +37,7 @@ var users = {
             "Experience":"fresher",
         "Address":"abc",
     "Domain":"Full stack development",}];
- //console.log(resume);
+
 resume.forEach(function() {
     console.log(resume);
 });
